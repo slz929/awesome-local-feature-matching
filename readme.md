@@ -1,5 +1,10 @@
 # awesome local feature in 2023s
 
+
+# 特征可视化与对比
+mage Matching WebUI：find matches between 2 images
+https://github.com/Vincentqyw/image-matching-webui
+
 # 特征点
 
 ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction  
@@ -55,15 +60,19 @@ SiLK - Simple Learned Keypoints
 https://github.com/facebookresearch/silk  
 
 ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization
-https://github.com/menelaoskanakis/ZippyPoint  
+https://github.com/menelaoskanakis/ZippyPoint
 
 
-特征点降维：
+Detect, Don't Describe --- Describe, Don't Detect for Local Feature Matching
+https://github.com/Parskatt/DeDoDe
+
+
+## 特征点降维：
 Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors (ICRA2023)
 https://github.com/PRBonn/descriptor-dr  
 
 
-特征点协方差
+## 特征点协方差
 DAC: Detector-Agnostic Spatial Covariances for Deep Local Features
 https://github.com/javrtg/DAC  
 
@@ -200,6 +209,11 @@ https://github.com/minhaolee/GeoTransformer
 gluestick
 https://github.com/cvg/GlueStick  
 
+AffineGlue: Joint Matching and Robust Estimation
+
+2023 LightGlue: Local Feature Matching at Light Speed
+github.com/cvg/LightGlue
+
 ## detection-free
 loftr
 https://github.com/zju3dv/LoFTR  
@@ -233,14 +247,16 @@ https://github.com/apple/ml-aspanformer
 
 ParaFormer: Parallel Attention Transformer for Efficient Feature Matching  
 
-aaai23 TopicFM: Robust and Interpretable Topic-Assisted Feature Matching
+AAAI23 TopicFM: Robust and Interpretable Topic-Assisted Feature Matching
 https://github.com/TruongKhang/TopicFM  
 
-AAAI'23 paper "ConvMatch: Rethinking Network Design for Two-View Correspondence Learning"
+AAAI23 "ConvMatch: Rethinking Network Design for Two-View Correspondence Learning"
 https://github.com/SuhZhang/ConvMatch  
 
 ## 2d-3dmatch:
 https://github.com/GabbySuwichaya/2D-3D-Matching  
+
+Efficient & Effective Prioritized Matching for Large-Scale Image-Based Localization
 
 Recalling Direct 2D-3D Matches for Large-Scale Visual Localization  
 
@@ -252,7 +268,6 @@ Efficient 2D-3D Matching for Multi-Camera Visual Localization
 
 BPNPnet：Solving the Blind Perspective-n-Point Problem End-To-End With Robust Differentiable Geometric Optimization  
 
-
 P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching
 https://github.com/BingCS/P2-Net  
 
@@ -261,3 +276,6 @@ https://github.com/dvl-tum/gomatch
 
 (GAM,BMnet)Improving Feature-based Visual Localization by Geometry-Aided Matching
 https://github.com/openxrlab/xrlocalization  
+
+2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds
+https://github.com/minhaolee/2D3DMATR

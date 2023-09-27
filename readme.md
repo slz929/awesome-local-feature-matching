@@ -153,6 +153,9 @@ https://ku-cvlab.github.io/DiffMatch/
 https://github.com/KU-CVLAB/DiffMatch  
 
 # 特征点与GCN
+
+Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network  
+
 AirCode: A Robust Object Encoding Method. IEEE Robotics and Automation Letters (2022)
 https://github.com/wang-chen/AirCode  
 
@@ -186,7 +189,18 @@ https://github.com/feixue94/imp-release
 https://github.com/GrumpyZhou/image-matching-toolbox  
 
 
+## 重复纹理的匹配
+Doppelgangers: Learning to Disambiguate Images of Similar Structures  
+doppelgangers-3d.github.io  
+
+
 ## detection-based
+
+ResMatch: Residual Attention Learning for Local Feature Matching  
+https://github.com/ACuOoOoO/ResMatch  
+
+
+Scene-Aware Feature Matching  
 
 FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network (CVPR 2023)
 https://github.com/SJTU-ViSYS/FeatureBooster  
@@ -253,6 +267,10 @@ https://github.com/TruongKhang/TopicFM
 AAAI23 "ConvMatch: Rethinking Network Design for Two-View Correspondence Learning"
 https://github.com/SuhZhang/ConvMatch  
 
+## 极线优化
+E3CM: Epipolar-Constrained Cascade Correspondence Matching  
+
+
 ## 2d-3dmatch:
 https://github.com/GabbySuwichaya/2D-3D-Matching  
 
@@ -279,3 +297,12 @@ https://github.com/openxrlab/xrlocalization
 
 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds
 https://github.com/minhaolee/2D3DMATR
+
+# 外点过滤
+BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus  
+https://github.com/merlresearch/bansac  
+
+## 其他
+多视图几何稳定性研究  
+On the Instability of Relative Pose Estimation and RANSAC’s Role  
+

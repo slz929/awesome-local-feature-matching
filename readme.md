@@ -5,6 +5,10 @@
 mage Matching WebUI：find matches between 2 images
 https://github.com/Vincentqyw/image-matching-webui
 
+# 大模型
+SEGMENT ANYTHING MODEL IS A GOOD TEACHER FOR LOCAL FEATURE LEARNING  
+https://github.com/vignywang/SAMFeat  
+
 # 特征点
 
 ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction  
@@ -266,6 +270,10 @@ https://github.com/TruongKhang/TopicFM
 
 AAAI23 "ConvMatch: Rethinking Network Design for Two-View Correspondence Learning"
 https://github.com/SuhZhang/ConvMatch  
+
+Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints  
+https://github.com/ewrfcas/CasMTR  
+
 
 ## 极线优化
 E3CM: Epipolar-Constrained Cascade Correspondence Matching  

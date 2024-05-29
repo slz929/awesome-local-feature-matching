@@ -221,10 +221,15 @@ FGCNet: Fast Graph Convolution for Matching Features
 openglue
 https://github.com/ucuapps/OpenGlue  
 
+点云superglue
+Keypoint Matching for Point Cloud Registration using Multiplex Dynamic Graph Attention Networks
+https://github.com/nubot-nudt/MDGAT-matcher
+
 (点云superglue)Geometric Transformer for Fast and Robust Point Cloud Registration
 https://github.com/minhaolee/GeoTransformer  
 
-gluestick
+
+点线段匹配统一架构 gluestick 
 https://github.com/cvg/GlueStick  
 
 AffineGlue: Joint Matching and Robust Estimation
